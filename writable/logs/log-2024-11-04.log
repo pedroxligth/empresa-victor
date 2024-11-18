@@ -1,0 +1,990 @@
+CRITICAL - 2024-11-04 20:40:20 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:40:33 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:41:27 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:42:15 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:42:35 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:42:49 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:43:03 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 20:43:30 --> Error connecting to the database: mysqli_sql_exception: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-11-04 20:43:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+[Method: GET, Route: avaliador/dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `trabalhos`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 20:43:34 --> Error connecting to the database: ErrorException: mysqli::real_connect(): Error while reading greeting packet. PID=7496 in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\xampp\\htdocs...', 186)
+#1 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-11-04 20:43:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+[Method: GET, Route: avaliador/dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `trabalhos`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 20:44:08 --> Error connecting to the database: ErrorException: mysqli::real_connect(): Error while reading greeting packet. PID=7496 in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\xampp\\htdocs...', 186)
+#1 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(31): CodeIgniter\BaseModel->first()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->authenticate()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(31): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->authenticate()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(31): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->authenticate()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+ERROR - 2024-11-04 20:44:08 --> Error connecting to the database: ErrorException: mysqli::real_connect(): Error while reading greeting packet. PID=7496 in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\xampp\\htdocs...', 186)
+#1 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-11-04 20:44:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+[Method: POST, Route: avaliador/authenticate]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Avaliador.php(31): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->authenticate()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:44:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+[Method: GET, Route: avaliador/dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `trabalhos`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Avaliador.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:44:21 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:44:37 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:44:57 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:45:37 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:48:11 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:48:55 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:49:24 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:49:25 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:35 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:35 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:36 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:50:37 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:51:02 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:51:02 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:52:30 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:58:04 --> ErrorException: Undefined array key "avaliado"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 APPPATH\Views\avaliador\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "avaliado"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 20:59:42 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 66.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 3 APPPATH\Controllers\Avaliador.php(16): view('avaliador/dashboard', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 21:30:35 --> mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `av...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `av...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `av...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `av...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(91): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-11-04 21:30:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+[Method: POST, Route: avaliador/avaliar/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:30:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 7.7777777777778, \'ola , tudo bem\', \'2024-11-04 21:30:35\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 7.7777777777778, \'ola , tudo bem\', \'2024-11-04 21:30:35\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:30:35 --> [Caused by] mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 7.7777777777778, \'ola , tudo bem\', \'2024-11-04 21:30:35\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 7.7777777777778, \'ola , tudo bem\', \'2024-11-04 21:30:35\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 7.7777777777778, \'ola , tudo bem\', \'2024-11-04 21:30:35\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 21:31:58 --> mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `av...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `av...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `av...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `av...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(91): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-11-04 21:31:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+[Method: POST, Route: avaliador/avaliar/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:31:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:31:58\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:31:58\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:31:58 --> [Caused by] mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:31:58\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:31:58\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:31:58\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 21:32:57 --> mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `av...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `av...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `av...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `av...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(91): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-11-04 21:32:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+[Method: POST, Route: avaliador/avaliar/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:32:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:32:56\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:32:56\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:32:57 --> [Caused by] mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:32:56\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:32:56\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:32:56\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 21:34:33 --> mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `av...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `av...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `av...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `av...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci4\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(91): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-11-04 21:34:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+[Method: POST, Route: avaliador/avaliar/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:34:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:34:33\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:34:33\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 21:34:33 --> [Caused by] mysqli_sql_exception: Unknown column 'id_trabalho' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:34:33\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:34:33\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (\'1\', NULL, 10, \'asdas\', \'2024-11-04 21:34:33\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `avaliacoes` (`id_trabalho`, `id_avaliador`, `nota`, `comentarios`, `data_avaliacao`) VALUES (:id_trabalho:, :id_avaliador:, :nota:, :comentarios:, :data_avaliacao:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Avaliador.php(91): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->avaliar('1')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-04 21:49:13 --> Error connecting to the database: mysqli_sql_exception: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'login', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Avaliador.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-11-04 21:49:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+[Method: GET, Route: avaliador/dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `trabalhos`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Avaliador.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 23:02:18 --> ErrorException: Undefined array key "media_nota"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 59.
+ 1 APPPATH\Views\avaliador\dashboard.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "media_nota"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(17): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-04 23:02:34 --> ErrorException: Undefined array key "media_nota"
+[Method: GET, Route: avaliador/dashboard]
+in APPPATH\Views\avaliador\dashboard.php on line 59.
+ 1 APPPATH\Views\avaliador\dashboard.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "media_nota"', 'C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci4\\app\\Views\\avaliador\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('avaliador/dashboard', [], true)
+ 5 APPPATH\Controllers\Avaliador.php(17): view('avaliador/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Avaliador->dashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Avaliador))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
